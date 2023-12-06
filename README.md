@@ -17,3 +17,8 @@ Has the definition of the elements that compose of the Green's tensor of the fib
 
 ## Program : Analytc_Green_fct_nanofiber5.ipynb
 This program has the full integration of the nanofiber's Green's tensor, this is done by performing the integral for a limited number of modes and performing a summation over the modes.
+
+THis program also includes symmetry testing for the elements that conform the integrand g_nu.
+
+## Program : Analytical_Green_fiber_ex.py
+This program is an example of the behaviour of a dipole's spontaneous emission rate when moving further away from the nanofiber's axis.
