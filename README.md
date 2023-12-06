@@ -7,3 +7,7 @@ Has the definition of the elements in the equation of the Green's fiber tensor f
 
 ## Program : Analytc_Green_fct_nanofiber2.ipynb
 Has the definition of the elements that compose of the Green's tensor of the fiber and the definitions of the integrals over the contour at Erwan Stourm's thesis.
+
+## Program : Analytc_Green_fct_nanofiber3.ipynb
+Has the definition of the elements that compose of the Green's tensor of the fiber and the definitions of the integrals over the parts of interest from the contour in Erwan Stourm's thesis.
+
