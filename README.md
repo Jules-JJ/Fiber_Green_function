@@ -11,3 +11,7 @@ Has the definition of the elements that compose of the Green's tensor of the fib
 ## Program : Analytc_Green_fct_nanofiber3.ipynb
 Has the definition of the elements that compose of the Green's tensor of the fiber and the definitions of the integrals over the parts of interest from the contour in Erwan Stourm's thesis.
 
+
+## Program : Analytc_Green_fct_nanofiber4.ipynb
+Has the definition of the elements that compose of the Green's tensor of the fiber and the definitions of the integrals over the parts of interest from the contour in Erwan Stourm's thesis. This program also includes an exaple of the residue contributions of the guided modes, and those at "plus or minus beta0".
+
